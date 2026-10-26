@@ -1,0 +1,6 @@
+{
+  "name": "Mashood ur Rehman -- 3D Creator & Visualizer",
+  "description": "Portfolio landing page for Mashood ur Rehman, featuring 3D CGI product renders, character model sheets, 2D animation, and packaging design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
